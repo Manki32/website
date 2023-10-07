@@ -1,0 +1,167 @@
+{
+    "type": "Map",
+    "maps":[
+        {
+            "text": "IND",
+            "size": 1.0,
+            "country": "India",
+            "city": "Chennai", 
+            "lat": "13.089869",
+            "lng": "80.245901",
+            "color": "blue"
+        },
+        {
+            "text": "UAE",
+            "size": 1.0,
+            "country": "United Arab Emirates",
+            "city": "Dubai",
+            "lat": "23.214066",
+            "lng": "53.195262",
+            "color": "blue"
+        },
+        {
+            "text": "MOR",
+            "size": 1.0,
+            "country": "North Africa",
+            "city": "Morocco",
+            "lat": "30.555876",
+            "lng": "-7.044599",
+            "color": "blue"
+        },
+        {
+            "text": "ICN",
+            "size": 1.0,
+            "country": "South Korea",
+            "city": "Incheon",
+            "lat": "37.472222222222",
+            "lng": "126.60833333333",
+            "color": "blue"
+        },
+        {
+            "text": "KJA",
+            "size": 1.0,
+            "country": "Russia",
+            "city": "Krasnoyarsk",
+            "lat": "56.05",
+            "lng": "92.9",
+            "color": "blue"
+        },
+        {
+            "text": "OVB",
+            "size": 1.0,
+            "country": "Russia",
+            "city": "Novosibirsk",
+            "lat": "55.033333333333",
+            "lng": "83",
+            "color": "blue"
+        },
+        {
+            "text": "KUL",
+            "size": 1.0,
+            "country": "Malaysia",
+            "city": "Kuala-Lumpur",
+            "lat": "3.11666666666",
+            "lng": "101.7",
+            "color": "blue"
+        },
+        {
+            "text": "SIN",
+            "size": 1.0,
+            "country": "Singapore",
+            "city": "Singapore",
+            "lat": "1.2916666666667",
+            "lng": "103.85",
+            "color": "blue"
+        },
+        {
+            "text": "DPS",
+            "size": 1.0,
+            "country": "Indonesia",
+            "city": "Denpasar",
+            "lat": "-8.75",
+            "lng": "115.16666666667",
+            "color": "blue"
+        },
+        {
+            "text": "DMK",
+            "size": 1.0,
+            "country": "Thailand",
+            "city": "Bangkok",
+            "lat": "13.9255",
+            "lng": "100.5923",
+            "color": "blue"
+        },
+        {
+            "text": "BKK",
+            "size": 1.0,
+            "country": "Thailand",
+            "city": "",
+            "lat": "13.6900",
+            "lng": "100.7501",
+            "color": "blue"
+        },
+        {
+            "text": "DE",
+            "size": 1.0,
+            "country": "Germany",
+            "city": "Berlin",
+            "lat": "52.516666666667",
+            "lng": "13.4",
+            "color": "blue"
+        },
+        {
+            "text": "HR",
+            "size": 1.0,
+            "country": "Croatia",
+            "city": "Zagreb",
+            "lat": "45.8", 
+            "lng": "16",
+            "color": "blue"
+        },
+        {
+            "text": "AT",
+            "size": 1.0,
+            "country": "Austria",
+            "city": "Vienna",
+            "lat": "48.2",
+            "lng": "16.366666666667",
+            "color": "blue"
+        },
+        {
+            "text": "US",
+            "size": 1.0,
+            "country": "United States",
+            "city": "New York",
+            "lat": "40.7127",
+            "lng": "-74.0059",
+            "color": "blue"
+        },
+        {
+            "text": "US",
+            "size": 1.0,
+            "country": "United States",
+            "city": "San Francisco",
+            "lat": "37.7833",
+            "lng": "-122.4167",
+            "color": "blue"
+        },
+        {
+            "text":"CA",
+            "size": 1.0,
+            "country": "Canada",
+            "city": "Toronto",
+            "lat": "43.7000",
+            "lng": "-79.4000",
+            "color": "blue"
+        },
+        {
+            "text": "AU",
+            "size": 1.0,
+            "country": "Australia",
+            "city": "Sydney",
+            "lat": "-33.8650",
+            "lng": "151.2094",
+            "color": "blue"
+        }
+    ]
+}
